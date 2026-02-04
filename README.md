@@ -1,5 +1,5 @@
 # Exploit-JuiceShop
-This repository documents my hands-on security testing of the OWASP Juice Shop application, a deliberately vulnerable web app used for security training.
+This repository my hands-on security testing of the OWASP Juice Shop application, a deliberately vulnerable web app used for security training.
 
 ## Objectives
 - Practice real-world web application penetration testing
