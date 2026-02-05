@@ -11,7 +11,6 @@ This repository my hands-on security testing of the OWASP Juice Shop application
 - Access control testing
 - Injection testing (SQLi, XSS)
 - Security reporting and remediation guidance
-
 ## Scope
 Testing was performed in a local lab environment against OWASP Juice Shop.
 
